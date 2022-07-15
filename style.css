@@ -264,6 +264,7 @@
 
 .s2-s2-button{
     margin-top: 40px;
+    font-size: 30px;
     border: none;
     color: white;
     background-color: black;
@@ -282,6 +283,7 @@
 
 .about-us-section{
     height: 755px;
+    width: 1437px;
     display: flex;
     flex-direction: row;
     background-color: #EAEDEA;
