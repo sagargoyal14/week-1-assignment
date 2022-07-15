@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ui{
+    width: 1440px;
+    height: 3905px;
+}
+
+.dot-matrix-font{
+    font-family: 'Dot Matrix', sans-serif;
+}
+
+.hero-section{
+    background-color: black;
+    width: 1437px;
+    height: 1067.85px;
+}
+
+.nav{
+    background-color: black;
+    width: 1437px;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Dot Matrix', sans-serif;
+    color: white;
+}
+
+.logo{
+    margin-top: 30px;
+    margin-bottom: 22px;
+    margin-left: 60px;
+}
+
+.side-nav{
+    font-weight: 400;
+    font-size: 20px;
+    height: 44px;
+    width: 312px;
+    display: flex;
+    flex-direction: row;
+    margin:16px 60px 8px 925px;
+}
+
+.side-nav span{
+    padding: 12px 16px;
+}
+
+.ear1, .login{
+    margin-left: 12px;
+}
+
+
+
