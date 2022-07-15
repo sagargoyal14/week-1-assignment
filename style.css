@@ -118,5 +118,27 @@
     margin-top: 196px;
 }
 
+.nothing-facts{
+    width: 1437px;
+    height: 230px;
+}
+
+.facts-align{
+    width: 100%;
+    padding: 54px 60px;
+    display: flex;
+    flex: row;
+}
+
+.f3{
+    margin: 0 64px;
+}
+
+.ear-buds-secton-1{
+    height: 757.15px;
+    width: 1437px;
+    background-color: black;
+}
+
 
 
