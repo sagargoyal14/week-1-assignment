@@ -138,7 +138,179 @@
     height: 757.15px;
     width: 1437px;
     background-color: black;
+    display: flex;
+    flex-direction: row;
 }
+
+.s1{
+    height: 100%;
+    padding-left: 60px;
+    padding-bottom: 210.58px;
+    padding-top: 176.15px;
+}
+
+.s1 img{
+    width: 368px;
+    height: 370.42px;
+}
+.s2{
+    width: 546.02px;
+    color: white;
+    padding-right: 37px;
+    padding-left: 76px;
+    padding-top: 215.15px;
+    padding-bottom: 286px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.s2-header{
+    font-size: 36px;
+    align-items: center;
+}
+
+.s2-details{
+    text-align: center;
+    font-size: 22px;
+    padding-top: 24px;
+}
+
+.s2 button{
+    margin-top: 40px;
+    border:none;
+    color: black;
+    background-color: white;
+    padding: 12px 34.5px 12px 32.5px;
+    font-size: 30px;
+}
+
+.s3{
+    height: 100%;
+    width: 478.3px;
+    position: relative;
+}
+
+.s3 img{
+    width: 318.87px;
+    height: 311.28px;
+}
+
+.earphone1{
+    position: absolute;
+    margin-bottom: 297.58px;
+    margin-top: 148.3px;
+    margin-left: 30px;
+}
+
+.earphone2{
+    margin-left: 196.25px;
+    margin-top: 262.18px;
+    margin-bottom: 183.7px;
+    margin-right: 0px;
+}
+
+.ear-buds-section-2{
+    width: 1437px;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.section-2-s1{
+    width: 406.33px;
+    position: relative;
+}
+
+
+
+.section-2-s2{
+    width: 527.67px;
+    height: 256px;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-2-s3{
+    width: 503px;
+}
+
+.section-2-s3 img{
+    height: 300.09px;
+    width: 359.2px;
+    margin-top: 200px;
+    margin-bottom: 199.91px;
+}
+
+.s2-s2-header{
+    font-size: 36px;
+    padding-bottom: 24px;
+    padding-left: 77.5px;
+    padding-right: 77.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.s2-s2-details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 22px;
+}
+
+.s2-s2-button{
+    margin-top: 40px;
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 12px 32.5px 12px 34.5px;
+}
+
+.s2-s1-earphone1{
+    margin-top:152.91px;
+    position: absolute;
+}
+
+.s2-s1-earphone2{
+    margin-top: 133px;
+    margin-left: 189.98px;
+}
+
+.about-us-section{
+    height: 755px;
+    display: flex;
+    flex-direction: row;
+    background-color: #EAEDEA;
+}
+
+.about-us-section img{
+    height: 644px;
+    width: 1019px;
+    margin-top: 111px;
+}
+
+.about-us{
+    height: 136px;
+    width: 357px;
+    margin-top: 279px;
+    margin-bottom: 340px;
+    margin-right: 61px;
+}
+
+.about-us-header{
+    font-size: 36px;
+}
+
+.about-us-details{
+    font-size: 22px;
+}
+
+
+
 
 
 
